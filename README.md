@@ -13,7 +13,10 @@ apps is private.
 
 <p align="center">
   <img src="docs/home.png" width="300" alt="The Circles iOS app, Home tab: a greeting, two active memories waiting on sides, and recent reveals below.">
+  &nbsp;&nbsp;
+  <img src="docs/web-invite.png" width="300" alt="The Circles web app, invite page: 'tester wants to hear your side of the batch intake', three seats with one filled, and a first-name field above a 'claim my spot' button.">
 </p>
+<p align="center"><sub>Left: the iOS app's Home. Right: the web page a guest lands on from an invite link.</sub></p>
 
 ## How a circle works
 
