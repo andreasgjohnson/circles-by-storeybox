@@ -12,13 +12,17 @@ This repo describes the product and how it is built. The source for the two
 apps is private.
 
 <p align="center">
-  <img src="docs/home.png" width="260" alt="The Circles iOS app, Home tab: a greeting, two active memories waiting on sides, and recent reveals below.">
-  &nbsp;
-  <img src="docs/web-invite.png" width="260" alt="The Circles web app, invite page: 'tester wants to hear your side of the batch intake', three seats with one filled, and a first-name field above a 'claim my spot' button.">
-  &nbsp;
-  <img src="docs/unlocked.png" width="260" alt="The Circles iOS app, an unlocked memory: '2 sides, each told without hearing the others', one side as an audio player and one as a written quote, with links to write in the margin or add a keepsake.">
+  <img src="docs/home.png" width="300" alt="The Circles iOS app, Home tab: a greeting, two active memories waiting on sides, and recent reveals below.">
+  &nbsp;&nbsp;
+  <img src="docs/recording.png" width="300" alt="The Circles iOS app, recording a side: 'your side, first', speak-it and write-it options, a stop button with a timer at fourteen seconds, and a 'seal my side' button.">
 </p>
-<p align="center"><sub>Left: the iOS app's Home. Middle: the web page a guest lands on from an invite link. Right: a memory after it unlocks, every side together.</sub></p>
+<p align="center"><sub>Left: the iOS app's Home. Right: recording your side of a new memory.</sub></p>
+<p align="center">
+  <img src="docs/web-invite.png" width="300" alt="The Circles web app, invite page: 'tester wants to hear your side of the batch intake', three seats with one filled, and a first-name field above a 'claim my spot' button.">
+  &nbsp;&nbsp;
+  <img src="docs/unlocked.png" width="300" alt="The Circles iOS app, an unlocked memory: '2 sides, each told without hearing the others', one side as an audio player and one as a written quote, with links to write in the margin or add a keepsake.">
+</p>
+<p align="center"><sub>Left: the web page a guest lands on from an invite link. Right: a memory after it unlocks, every side together.</sub></p>
 
 ## How a circle works
 
