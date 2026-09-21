@@ -11,6 +11,10 @@ the whole circle at once, and you hear every side together.
 This repo describes the product and how it is built. The source for the two
 apps is private.
 
+<p align="center">
+  <img src="docs/home.png" width="300" alt="The Circles iOS app, Home tab: a greeting, two active memories waiting on sides, and recent reveals below.">
+</p>
+
 ## How a circle works
 
 1. **Start a memory.** Give it a name, choose the circle (two to four people),
